@@ -1,0 +1,5 @@
+var namespaceinterface__update__parameter__bns__peos =
+[
+    [ "update_parameter_bns_peos", "interfaceinterface__update__parameter__bns__peos_1_1update__parameter__bns__peos.html", "interfaceinterface__update__parameter__bns__peos_1_1update__parameter__bns__peos" ],
+    [ "update_parameter_bns_peos_radi", "interfaceinterface__update__parameter__bns__peos_1_1update__parameter__bns__peos__radi.html", "interfaceinterface__update__parameter__bns__peos_1_1update__parameter__bns__peos__radi" ]
+];

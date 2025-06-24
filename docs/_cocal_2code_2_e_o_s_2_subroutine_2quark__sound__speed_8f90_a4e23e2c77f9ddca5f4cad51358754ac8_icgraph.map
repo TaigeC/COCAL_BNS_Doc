@@ -1,0 +1,33 @@
+<map id="quark_sound_speed" name="quark_sound_speed">
+<area shape="rect" id="Node000001" title=" " alt="" coords="837,128,974,155"/>
+<area shape="rect" id="Node000002" href="$_cocal_2spherical__data_2_t_o_v__schwartzshild__coord_2_t_o_v__qeos__isotr_8f90.html#ae3935f2da2388b1fa5851ad7dfed4ecf" title=" " alt="" coords="422,28,581,55"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="885,116,845,67,818,44,788,26,757,16,725,11,659,10,597,18,546,30,545,25,596,13,658,4,725,5,758,11,790,22,821,40,849,64,889,113"/>
+<area shape="rect" id="Node000003" href="$_cocal_2spherical__data_2_t_o_v__schwartzshild__coord_2_t_o_v__qeos__isotr__tidal_8f90.html#a50d8c3adf93e53f87cd45ea73d825eb5" title=" " alt="" coords="426,255,577,297"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="889,169,849,218,821,242,790,261,737,279,681,288,626,290,577,288,578,283,626,285,680,283,735,274,788,256,818,238,845,214,885,166"/>
+<area shape="rect" id="Node000004" href="$_cocal_2code_2_subroutine_2calc__soundspeed__qeos_8f90.html#a2329ef5d9dead7b368765f4175d73859" title=" " alt="" coords="631,103,789,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="821,133,789,129,790,124,821,128"/>
+<area shape="rect" id="Node000012" href="$_cocal_2spherical__data_2_t_o_v__schwartzshild__coord_2_subroutine___t_o_v_2equation__qeos__isotr__tidal_8f90.html#a6e3138a486b37f14d1e3cfda08a12134" title=" " alt="" coords="675,153,745,180"/>
+<area shape="poly" id="edge13_Node000001_Node000012" title=" " alt="" coords="821,155,746,165,745,159,821,150"/>
+<area shape="rect" id="Node000013" href="$_cocal_2spherical__data_2_t_o_v__schwartzshild__coord_2_subroutine___t_o_v_2printout___t_o_v__profile__isotr__quark_8f90.html#ad326f698794f42383431fbbdb2bab62d" title=" " alt="" coords="644,36,776,79"/>
+<area shape="poly" id="edge14_Node000001_Node000013" title=" " alt="" coords="858,124,788,93,761,82,763,77,790,88,860,119"/>
+<area shape="rect" id="Node000014" href="$_cocal_2spherical__data_2_t_o_v__schwartzshild__coord_2_subroutine___t_o_v_2printout___t_o_v__profile__isotr__quark__tidal_8f90.html#a7cea644298a10d3061f83cb2132e6175" title=" " alt="" coords="644,204,776,247"/>
+<area shape="poly" id="edge16_Node000001_Node000014" title=" " alt="" coords="860,164,790,194,763,206,761,201,788,190,858,159"/>
+<area shape="rect" id="Node000005" href="$_cocal_2code_2_subroutine__mpatch_2calc__physical__quantities___b_q_s___c_f__mpt_8f90.html#a1cd236e5d6e35993cbcbb498bafbf3ea" title=" " alt="" coords="420,171,583,213"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="651,137,632,144,557,173,555,168,630,139,650,132"/>
+<area shape="rect" id="Node000010" href="$_cocal_2code_2_subroutine_2calc__physical__quantities__qeos__v1_8f90.html#ad8a8668bf97d6af135cd6f539ea028af" title=" " alt="" coords="420,79,583,121"/>
+<area shape="poly" id="edge11_Node000004_Node000010" title=" " alt="" coords="616,111,584,109,584,104,616,106"/>
+<area shape="rect" id="Node000006" href="$_cocal_2code_2_main__code_2_main___b_q_s___c_f__mpt_8f90.html#a1981308af4216a9a9da6a6e72c165819" title=" " alt="" coords="5,139,183,165"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="404,174,372,169,274,160,183,156,183,151,274,155,372,164,405,169"/>
+<area shape="rect" id="Node000007" href="$_cocal_2_parallel_2_main___b_q_s___c_f__mpt_8f90___parallel_8f90.html#a0cddd32200da4e56c9fdc878f169a006" title=" " alt="" coords="12,200,176,243"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="405,215,372,220,270,226,176,227,176,221,270,221,372,215,404,210"/>
+<area shape="rect" id="Node000008" href="$_cocal_2code_2_subroutine__mpatch_2calc___b_q_s___c_f__mpt_8f90.html#aaae72713ecdccb39cf5e52321ad16080" title=" " alt="" coords="241,179,362,205"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="404,195,362,195,362,189,404,189"/>
+<area shape="rect" id="Node000009" href="$_cocal_2code_2_subroutine__mpatch_2calc___b_q_s___c_f__mpt__old_8f90.html#a77d68ca641ee65949830579fa2faf8f7" title=" " alt="" coords="241,280,362,307"/>
+<area shape="poly" id="edge10_Node000005_Node000009" title=" " alt="" coords="450,223,373,264,335,282,333,277,371,259,447,219"/>
+<area shape="poly" id="edge8_Node000008_Node000006" title=" " alt="" coords="225,180,166,169,167,163,226,175"/>
+<area shape="poly" id="edge9_Node000008_Node000007" title=" " alt="" coords="226,205,176,212,176,207,225,200"/>
+<area shape="rect" id="Node000011" href="$_cocal_2code_2_main__code_2_main___r_q_s___c_f__qeos__v1_8f90.html#a3e8e1b5df86aeda87d229db73f006cb5" title=" " alt="" coords="231,61,372,104"/>
+<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="404,94,372,91,373,86,405,89"/>
+<area shape="poly" id="edge15_Node000013_Node000002" title=" " alt="" coords="629,54,582,50,582,45,629,48"/>
+<area shape="poly" id="edge17_Node000014_Node000003" title=" " alt="" coords="630,247,578,260,577,255,629,242"/>
+</map>

@@ -1,0 +1,27 @@
+<map id="calc_redblue_shift" name="calc_redblue_shift">
+<area shape="rect" id="Node000001" title=" " alt="" coords="466,280,592,307"/>
+<area shape="rect" id="Node000002" href="$_cocal_2code_2_subroutine_2calc__physical__quantities_8f90.html#a8d3384627efe38f9feef70305b3377ad" title=" " alt="" coords="237,80,400,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="501,271,333,109,336,105,505,267"/>
+<area shape="rect" id="Node000005" href="$_cocal_2code_2_subroutine_2calc__physical__quantities__peos_8f90.html#ac9ac2daeeebb71038d61f30d86de75df" title=" " alt="" coords="220,213,418,240"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="469,277,363,243,364,238,471,272"/>
+<area shape="rect" id="Node000008" href="$_cocal_2code_2_subroutine_2calc__physical__quantities__peos__v1_8f90.html#a0261b14fbc47810b485b21910e3d49b1" title=" " alt="" coords="237,272,400,315"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="450,296,401,296,401,291,450,291"/>
+<area shape="rect" id="Node000010" href="$_cocal_2code_2_subroutine_2calc__physical__quantities__qeos_8f90.html#ac39ce5f9c2461bc678a5058add949d39" title=" " alt="" coords="220,343,418,369"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="468,314,419,329,368,345,366,339,417,324,467,309"/>
+<area shape="rect" id="Node000012" href="$_cocal_2code_2_subroutine_2calc__physical__quantities__qeos__v1_8f90.html#ad8a8668bf97d6af135cd6f539ea028af" title=" " alt="" coords="237,401,400,444"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="504,320,465,352,419,384,381,403,378,398,417,379,462,348,500,316"/>
+<area shape="rect" id="Node000003" href="$_cocal_2code_2_main__code_2_main__old__interface_8f90.html#a3ce6a97f922f22639b861376ef70f06b" title=" " alt="" coords="16,5,161,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="254,78,161,50,162,45,256,73"/>
+<area shape="rect" id="Node000004" href="$_cocal_2code_2_main__code_2_main___r_n_s___c_f__polytrope_8f90.html#a79e1b80a8052035295b4a64ee9d20c0b" title=" " alt="" coords="5,72,172,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="222,96,172,96,172,91,222,91"/>
+<area shape="rect" id="Node000006" href="$_cocal_2code_2_main__code_2_main___r_n_s___c_f__peos_8f90.html#ad5cf447ca9e573d5c21cdf6a5869c07d" title=" " alt="" coords="18,139,159,181"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="255,211,159,183,160,178,256,206"/>
+<area shape="rect" id="Node000007" href="$_cocal_2code_2_main__code_2_main___r_n_s___c_f__peos__gp4th_8f90.html#a691247ca94ae41adebf6b2f3bad69994" title=" " alt="" coords="18,205,159,248"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="204,229,160,229,160,224,204,224"/>
+<area shape="rect" id="Node000009" href="$_cocal_2code_2_main__code_2_main___r_n_s___c_f__peos__v1_8f90.html#a008c1489bf0334e1248b6b3bd6c3b9a7" title=" " alt="" coords="18,272,159,315"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="222,296,160,296,160,291,222,291"/>
+<area shape="rect" id="Node000011" href="$_cocal_2code_2_main__code_2_main___r_q_s___c_f__qeos_8f90.html#a616bbd6ffc75f446ead38bcbb7d91e1f" title=" " alt="" coords="18,339,159,381"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="204,361,160,361,160,356,204,355"/>
+<area shape="rect" id="Node000013" href="$_cocal_2code_2_main__code_2_main___r_q_s___c_f__qeos__v1_8f90.html#a3e8e1b5df86aeda87d229db73f006cb5" title=" " alt="" coords="18,405,159,448"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="222,427,160,428,159,423,222,422"/>
+</map>

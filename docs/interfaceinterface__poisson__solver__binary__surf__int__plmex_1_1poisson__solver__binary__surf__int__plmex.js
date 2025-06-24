@@ -1,0 +1,5 @@
+var interfaceinterface__poisson__solver__binary__surf__int__plmex_1_1poisson__solver__binary__surf__int__plmex =
+[
+    [ "poisson_solver_binary_surf_int_plmex", "interfaceinterface__poisson__solver__binary__surf__int__plmex_1_1poisson__solver__binary__surf__int__plmex.html#a6fe6020ba6c8bbfebc063e981dced212", null ],
+    [ "poisson_solver_binary_surf_int_plmex", "interfaceinterface__poisson__solver__binary__surf__int__plmex_1_1poisson__solver__binary__surf__int__plmex.html#a6fe6020ba6c8bbfebc063e981dced212", null ]
+];

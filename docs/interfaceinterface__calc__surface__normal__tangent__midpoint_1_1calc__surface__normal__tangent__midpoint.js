@@ -1,0 +1,5 @@
+var interfaceinterface__calc__surface__normal__tangent__midpoint_1_1calc__surface__normal__tangent__midpoint =
+[
+    [ "calc_surface_normal_tangent_midpoint", "interfaceinterface__calc__surface__normal__tangent__midpoint_1_1calc__surface__normal__tangent__midpoint.html#aca8606627ce2755038868a744fff4b25", null ],
+    [ "calc_surface_normal_tangent_midpoint", "interfaceinterface__calc__surface__normal__tangent__midpoint_1_1calc__surface__normal__tangent__midpoint.html#aca8606627ce2755038868a744fff4b25", null ]
+];

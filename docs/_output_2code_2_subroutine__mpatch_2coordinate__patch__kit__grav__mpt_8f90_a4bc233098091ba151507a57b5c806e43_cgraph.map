@@ -1,0 +1,25 @@
+<map id="coordinate_patch_kit_grav_mpt" name="coordinate_patch_kit_grav_mpt">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,293,147,336"/>
+<area shape="rect" id="Node000002" href="$namespacecoordinate__grav__extended.html#a0b601bedeb13905d24d38a84a074b30b" title=" " alt="" coords="201,5,374,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="79,292,91,245,113,182,146,116,168,85,193,58,196,55,200,59,197,62,172,89,150,119,117,184,96,246,84,294"/>
+<area shape="rect" id="Node000003" href="$namespacecoordinate__grav__phi.html#aad4cf66abda4100952f54007a1999332" title=" " alt="" coords="219,72,356,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="83,292,99,256,122,211,154,165,193,125,204,117,207,121,196,129,158,168,127,214,103,258,88,294"/>
+<area shape="rect" id="Node000004" href="$namespacecoordinate__grav__r.html#abb0f61ea76e2da00776c8a84c06695cd" title=" " alt="" coords="222,139,354,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="91,291,134,242,162,215,193,191,206,184,209,188,196,196,166,219,138,245,95,295"/>
+<area shape="rect" id="Node000005" href="$namespacecoordinate__grav__theta.html#a65dfcff44d5a6af2c818a661c83bd4f6" title=" " alt="" coords="213,205,362,248"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="121,290,194,258,209,251,211,256,196,262,123,295"/>
+<area shape="rect" id="Node000006" href="$namespacelegendre__fn__grav.html#a9ef8f013ef190157ace260fd3563d6d0" title=" " alt="" coords="199,272,376,299"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="147,302,183,297,184,302,147,308"/>
+<area shape="rect" id="Node000008" href="$namespacetrigonometry__grav__phi.html#a4408d5c14949bc69d1f8b4a99070624c" title=" " alt="" coords="213,323,362,365"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="147,322,198,329,198,334,147,327"/>
+<area shape="rect" id="Node000009" href="$namespacetrigonometry__grav__theta.html#a5bb21cb52011c5b9471702220daa8a34" title=" " alt="" coords="207,389,368,432"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="116,334,196,375,209,381,207,386,194,380,113,339"/>
+<area shape="rect" id="Node000010" href="$namespaceweight__midpoint__fluid.html#ac1d16b8e6f268d55c3c6d91f453b418a" title=" " alt="" coords="195,456,380,499"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="94,335,136,388,165,417,196,442,203,446,201,451,193,446,161,421,132,392,90,338"/>
+<area shape="rect" id="Node000011" href="$namespaceweight__midpoint__grav.html#afbb06df58eb61d85f140ee94a7bbddf9" title=" " alt="" coords="195,523,381,565"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="87,335,102,372,125,419,157,467,196,509,201,512,198,516,193,513,153,470,121,422,97,375,82,337"/>
+<area shape="rect" id="Node000012" href="$namespaceweight__midpoint__grav.html#a02ff698b448c490600ca7427afd51234" title=" " alt="" coords="211,589,365,648"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="84,336,96,384,118,448,151,515,172,547,197,575,200,579,196,583,193,579,168,550,146,518,113,450,91,386,79,337"/>
+<area shape="rect" id="Node000007" href="$namespacelegendre__fn__grav.html#ad88a1d731c862c20584a434b67c33696" title=" " alt="" coords="429,264,606,307"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="377,283,413,283,413,288,377,288"/>
+</map>

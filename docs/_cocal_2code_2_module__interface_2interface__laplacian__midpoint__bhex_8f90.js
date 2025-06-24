@@ -1,0 +1,4 @@
+var _cocal_2code_2_module__interface_2interface__laplacian__midpoint__bhex_8f90 =
+[
+    [ "laplacian_midpoint_bhex", "interfaceinterface__laplacian__midpoint__bhex_1_1laplacian__midpoint__bhex.html", "interfaceinterface__laplacian__midpoint__bhex_1_1laplacian__midpoint__bhex" ]
+];

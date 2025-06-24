@@ -1,0 +1,15 @@
+<map id="coordinate_patch_kit_grav_nogreen_mpt" name="coordinate_patch_kit_grav_nogreen_mpt">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,172,147,215"/>
+<area shape="rect" id="Node000002" href="$namespacecoordinate__grav__extended.html#a0b601bedeb13905d24d38a84a074b30b" title=" " alt="" coords="195,5,368,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="89,170,132,115,161,85,193,58,200,54,203,58,196,62,164,88,136,118,94,173"/>
+<area shape="rect" id="Node000003" href="$namespacecoordinate__grav__phi.html#aad4cf66abda4100952f54007a1999332" title=" " alt="" coords="213,72,350,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="111,169,193,124,206,119,208,124,196,129,114,174"/>
+<area shape="rect" id="Node000004" href="$namespacecoordinate__grav__r.html#abb0f61ea76e2da00776c8a84c06695cd" title=" " alt="" coords="215,139,348,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="147,179,199,171,200,176,148,184"/>
+<area shape="rect" id="Node000005" href="$namespacecoordinate__grav__theta.html#a65dfcff44d5a6af2c818a661c83bd4f6" title=" " alt="" coords="207,205,356,248"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="148,202,192,209,191,215,147,207"/>
+<area shape="rect" id="Node000006" href="$namespacetrigonometry__grav__phi.html#a4408d5c14949bc69d1f8b4a99070624c" title=" " alt="" coords="207,272,356,315"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="114,213,196,258,208,263,206,268,193,262,111,217"/>
+<area shape="rect" id="Node000007" href="$namespacetrigonometry__grav__theta.html#a5bb21cb52011c5b9471702220daa8a34" title=" " alt="" coords="201,339,362,381"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="94,214,136,268,164,298,196,325,203,329,200,333,193,329,161,302,132,272,89,217"/>
+</map>

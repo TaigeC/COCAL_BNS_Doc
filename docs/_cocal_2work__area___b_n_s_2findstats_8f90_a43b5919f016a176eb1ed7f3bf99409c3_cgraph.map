@@ -1,0 +1,12 @@
+<map id="findstats" name="findstats">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,56,77,83"/>
+<area shape="rect" id="Node000002" href="$_cocal_2work__area___b_n_s_2findstats_8f90.html#a1d85df14164aa183eacade1f29186318" title=" " alt="" coords="125,5,220,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="76,53,121,36,123,40,78,58"/>
+<area shape="rect" id="Node000003" href="$_cocal_2work__area___b_n_s_2findstats_8f90.html#a62fce4044a63e393058af3fb7f425535" title=" " alt="" coords="142,56,202,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="77,67,127,67,127,72,77,72"/>
+<area shape="rect" id="Node000005" href="$_cocal_2work__area___b_n_s_2findstats_8f90.html#a95c36ea7f5eef7f678267424d1398fe1" title=" " alt="" coords="125,107,220,133"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="78,81,123,98,121,103,76,86"/>
+<area shape="rect" id="Node000004" href="$_cocal_2work__area___b_n_s_2findstats_8f90.html#ab7104a73bbcb7a0cd7c0c15cbddf7b5b" title=" " alt="" coords="268,56,338,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="203,67,253,67,253,72,203,72"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="280,57,276,47,279,38,288,32,303,29,319,32,328,39,325,43,317,37,303,35,290,37,283,41,281,47,285,54"/>
+</map>

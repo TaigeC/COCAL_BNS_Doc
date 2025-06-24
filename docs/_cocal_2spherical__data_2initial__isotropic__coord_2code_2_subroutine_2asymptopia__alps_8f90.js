@@ -1,0 +1,4 @@
+var _cocal_2spherical__data_2initial__isotropic__coord_2code_2_subroutine_2asymptopia__alps_8f90 =
+[
+    [ "asymptopia_alps", "_cocal_2spherical__data_2initial__isotropic__coord_2code_2_subroutine_2asymptopia__alps_8f90.html#a5c112a3d44281547cf99ebee9dd1a728", null ]
+];

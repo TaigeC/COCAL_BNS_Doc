@@ -1,0 +1,4 @@
+var _cocal_2code_2_module__interface_2interface__interpo__binary__to__asymptotic__patch_8f90 =
+[
+    [ "interpo_binary_to_asymptotic_patch", "interfaceinterface__binary__to__asymptotic__patch_1_1interpo__binary__to__asymptotic__patch.html", "interfaceinterface__binary__to__asymptotic__patch_1_1interpo__binary__to__asymptotic__patch" ]
+];

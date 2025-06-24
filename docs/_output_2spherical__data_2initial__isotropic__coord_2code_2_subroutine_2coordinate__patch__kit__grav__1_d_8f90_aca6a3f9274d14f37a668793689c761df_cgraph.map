@@ -1,0 +1,11 @@
+<map id="coordinate_patch_kit_grav_1d" name="coordinate_patch_kit_grav_1d">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,105,147,148"/>
+<area shape="rect" id="Node000002" href="$namespaceradial__perm__fn__grav__1d.html#a8739aac9d84fea883d1f2c4a6efc68d2" title=" " alt="" coords="205,5,343,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="112,103,193,58,204,53,206,57,196,62,115,107"/>
+<area shape="rect" id="Node000003" href="$namespacecoordinate__grav__r__1d.html#ad8bd86858d64ce1a1166c32a770518d3" title=" " alt="" coords="201,72,346,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="147,112,186,105,186,111,148,117"/>
+<area shape="rect" id="Node000004" href="$namespacegrid__parameter__1d.html#aeaf5107ee75144b4df480819519df63f" title=" " alt="" coords="206,139,342,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="148,136,191,143,190,149,147,141"/>
+<area shape="rect" id="Node000005" href="$namespaceweight__grav__1d.html#aaded1b0c0881ad19343724ab970d3f0d" title=" " alt="" coords="195,205,353,248"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="115,146,196,191,206,196,204,201,193,196,112,151"/>
+</map>

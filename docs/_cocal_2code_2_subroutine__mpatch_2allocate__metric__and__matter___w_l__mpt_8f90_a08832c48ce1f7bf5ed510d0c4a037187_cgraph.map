@@ -1,0 +1,14 @@
+<map id="allocate_metric_and_matter_wl" name="allocate_metric_and_matter_wl">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,25,143,67"/>
+<area shape="rect" id="Node000002" href="$namespacemake__array__4d.html#a23c7f1c4d3cb6ffae03968e26d351de7" title=" " alt="" coords="398,25,543,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="139,21,190,10,270,3,350,10,389,18,388,23,350,15,270,8,191,15,140,27"/>
+<area shape="rect" id="Node000003" href="$namespacedef__vector__phi.html#addcd7fa7803869c6542d3bf3cdbc3304" title=" " alt="" coords="191,91,350,134"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="140,65,192,83,190,88,138,70"/>
+<area shape="rect" id="Node000005" href="$namespacedef__vector__x.html#ad4f6bc6968535f2d78b6d490e2e25ab7" title=" " alt="" coords="196,25,345,67"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="143,43,180,43,180,49,143,49"/>
+<area shape="poly" id="edge4_Node000003_Node000002" title=" " alt="" coords="336,88,389,70,391,75,337,93"/>
+<area shape="rect" id="Node000004" href="$namespacemake__array__3d.html#a35665381c488786ccddb173f79c2f89a" title=" " alt="" coords="398,91,543,134"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="350,110,383,110,383,115,350,115"/>
+<area shape="poly" id="edge7_Node000005_Node000002" title=" " alt="" coords="345,43,383,43,383,49,345,49"/>
+<area shape="poly" id="edge6_Node000005_Node000004" title=" " alt="" coords="337,65,391,83,389,88,336,70"/>
+</map>

@@ -1,0 +1,4 @@
+var _output_2code_2_subroutine__mpatch_2calc__physical__quantities__spin___b_n_s___c_f__mpt_8f90 =
+[
+    [ "calc_physical_quantities_spin_bns_cf_mpt", "_output_2code_2_subroutine__mpatch_2calc__physical__quantities__spin___b_n_s___c_f__mpt_8f90.html#a447ea60050bfd0b6624eae5f618f5972", null ]
+];

@@ -1,0 +1,8 @@
+<map id="interpo_gr2fl_midpoint_type0" name="interpo_gr2fl_midpoint_type0">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,47,154,89"/>
+<area shape="rect" id="Node000002" href="$_cocal_2code_2_subroutine_2interpo__linear__type0__2_dsurf_8f90.html#afe92941f4f35e7acbbe9d094c3a92388" title=" " alt="" coords="202,5,339,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="154,49,186,42,187,47,155,55"/>
+<area shape="rect" id="Node000003" href="$_cocal_2code_2_function_2lagint__4th_8f90.html#af588824f086eec4735361bc8e882f7f1" title=" " alt="" coords="232,96,309,123"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="155,81,217,95,216,100,154,87"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="238,97,232,87,236,78,249,71,270,69,293,72,305,78,303,83,292,77,270,75,250,77,240,81,237,87,242,94"/>
+</map>

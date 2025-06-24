@@ -1,0 +1,5 @@
+var interfaceinterface__sourceterm__mwspatial__current__wl_1_1sourceterm__mwspatial__current__wl =
+[
+    [ "sourceterm_mwspatial_current_wl", "interfaceinterface__sourceterm__mwspatial__current__wl_1_1sourceterm__mwspatial__current__wl.html#afef4a0c6e9a6708383d00b0aed773ad7", null ],
+    [ "sourceterm_mwspatial_current_wl", "interfaceinterface__sourceterm__mwspatial__current__wl_1_1sourceterm__mwspatial__current__wl.html#afef4a0c6e9a6708383d00b0aed773ad7", null ]
+];

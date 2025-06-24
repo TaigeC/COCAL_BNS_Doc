@@ -1,0 +1,4 @@
+var namespaceinterface__binary__to__asymptotic__patch =
+[
+    [ "interpo_binary_to_asymptotic_patch", "interfaceinterface__binary__to__asymptotic__patch_1_1interpo__binary__to__asymptotic__patch.html", "interfaceinterface__binary__to__asymptotic__patch_1_1interpo__binary__to__asymptotic__patch" ]
+];

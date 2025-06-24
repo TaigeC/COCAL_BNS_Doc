@@ -1,0 +1,8 @@
+<map id="paimproco_frg" name="paimproco_frg">
+<area shape="rect" id="Node000001" title=" " alt="" coords="284,5,387,32"/>
+<area shape="rect" id="Node000002" href="$_cocal_2spherical__data_2initial__isotropic__coord_2code_2_main__1_d_8f90.html#a8d35dae6d5764a91a54a97d43594f577" title=" " alt="" coords="5,5,129,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="269,21,129,21,129,16,269,16"/>
+<area shape="rect" id="Node000003" href="$_cocal_2spherical__data_2initial__isotropic__coord_2code_2_subroutine_2fluidco_8f90.html#acd0002ff4b590bc4ddf5a97a2938ecb4" title=" " alt="" coords="177,31,236,57"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="269,34,237,41,236,36,268,29"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="161,38,128,32,129,27,162,33"/>
+</map>

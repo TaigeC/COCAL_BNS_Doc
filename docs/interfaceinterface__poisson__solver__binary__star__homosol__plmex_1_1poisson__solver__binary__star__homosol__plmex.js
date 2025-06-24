@@ -1,0 +1,5 @@
+var interfaceinterface__poisson__solver__binary__star__homosol__plmex_1_1poisson__solver__binary__star__homosol__plmex =
+[
+    [ "poisson_solver_binary_star_homosol_plmex", "interfaceinterface__poisson__solver__binary__star__homosol__plmex_1_1poisson__solver__binary__star__homosol__plmex.html#a0e8f2e104cc5886ca60bcdb916d457e0", null ],
+    [ "poisson_solver_binary_star_homosol_plmex", "interfaceinterface__poisson__solver__binary__star__homosol__plmex_1_1poisson__solver__binary__star__homosol__plmex.html#a0e8f2e104cc5886ca60bcdb916d457e0", null ]
+];

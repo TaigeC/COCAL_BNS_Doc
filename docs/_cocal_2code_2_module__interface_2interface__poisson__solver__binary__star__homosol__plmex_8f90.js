@@ -1,0 +1,4 @@
+var _cocal_2code_2_module__interface_2interface__poisson__solver__binary__star__homosol__plmex_8f90 =
+[
+    [ "poisson_solver_binary_star_homosol_plmex", "interfaceinterface__poisson__solver__binary__star__homosol__plmex_1_1poisson__solver__binary__star__homosol__plmex.html", "interfaceinterface__poisson__solver__binary__star__homosol__plmex_1_1poisson__solver__binary__star__homosol__plmex" ]
+];

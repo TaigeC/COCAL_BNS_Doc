@@ -1,0 +1,29 @@
+<map id="coordinate_patch_kit_grav_grid_nogreen_mpt" name="coordinate_patch_kit_grav_grid_nogreen_mpt">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,405,169,448"/>
+<area shape="rect" id="Node000002" href="$namespacecoordinate__grav__extended.html#a0b601bedeb13905d24d38a84a074b30b" title=" " alt="" coords="223,5,396,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="87,404,95,338,115,246,132,196,153,146,181,100,215,58,217,56,221,60,219,62,185,103,158,149,137,198,120,247,100,339,92,405"/>
+<area shape="rect" id="Node000003" href="$namespacecoordinate__grav__phi.html#aad4cf66abda4100952f54007a1999332" title=" " alt="" coords="241,72,378,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="89,404,101,349,124,274,140,234,161,195,185,158,215,125,226,116,229,120,218,129,190,161,165,197,145,236,129,276,106,350,94,405"/>
+<area shape="rect" id="Node000004" href="$namespacecoordinate__grav__r.html#abb0f61ea76e2da00776c8a84c06695cd" title=" " alt="" coords="244,139,376,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="92,404,107,360,132,303,168,244,190,216,215,191,228,182,231,186,218,195,194,219,172,247,137,306,112,362,97,406"/>
+<area shape="rect" id="Node000005" href="$namespacecoordinate__grav__r.html#ad31dad954212e5771bdbb859d360838d" title=" " alt="" coords="244,205,376,248"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="97,404,143,333,176,293,215,258,229,249,231,254,218,262,180,296,147,336,102,407"/>
+<area shape="rect" id="Node000006" href="$namespacecoordinate__grav__r.html#a3941055e944bb545e5ba8ec45b68e292" title=" " alt="" coords="244,272,376,315"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="110,403,157,364,215,324,228,318,230,323,218,329,160,368,113,407"/>
+<area shape="rect" id="Node000007" href="$namespacecoordinate__grav__r.html#a9bc78f08008df8358cd5507cc373b984" title=" " alt="" coords="244,339,376,381"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="160,402,228,382,230,387,161,407"/>
+<area shape="rect" id="Node000008" href="$namespacecoordinate__grav__r.html#a8c9ef5df15f803dd425221cb8a7b83f5" title=" " alt="" coords="244,405,376,448"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="169,424,228,424,228,429,169,429"/>
+<area shape="rect" id="Node000009" href="$namespacecoordinate__grav__theta.html#a65dfcff44d5a6af2c818a661c83bd4f6" title=" " alt="" coords="235,472,384,515"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="161,446,222,464,221,470,160,451"/>
+<area shape="rect" id="Node000010" href="$namespacetrigonometry__grav__phi.html#a4408d5c14949bc69d1f8b4a99070624c" title=" " alt="" coords="235,539,384,581"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="113,446,160,485,218,524,228,530,226,534,215,529,157,490,110,450"/>
+<area shape="rect" id="Node000011" href="$namespacetrigonometry__grav__theta.html#a5bb21cb52011c5b9471702220daa8a34" title=" " alt="" coords="229,605,390,648"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="102,447,147,517,180,557,218,591,224,595,221,600,215,595,176,561,143,521,97,450"/>
+<area shape="rect" id="Node000012" href="$namespaceweight__midpoint__fluid.html#ac1d16b8e6f268d55c3c6d91f453b418a" title=" " alt="" coords="217,672,402,715"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="97,447,112,491,137,548,172,607,194,634,218,658,222,661,219,665,215,662,190,638,168,610,132,550,107,493,92,449"/>
+<area shape="rect" id="Node000013" href="$namespaceweight__midpoint__grav.html#afbb06df58eb61d85f140ee94a7bbddf9" title=" " alt="" coords="217,739,403,781"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="94,448,106,503,129,577,145,617,165,656,190,692,219,725,222,727,218,731,215,729,185,696,161,659,140,619,124,579,101,505,89,449"/>
+<area shape="rect" id="Node000014" href="$namespaceweight__midpoint__grav.html#a02ff698b448c490600ca7427afd51234" title=" " alt="" coords="233,805,387,864"/>
+<area shape="poly" id="edge13_Node000001_Node000014" title=" " alt="" coords="93,448,102,513,122,604,139,654,160,703,186,750,219,792,223,796,219,799,215,795,182,753,155,705,134,656,117,606,96,514,87,449"/>
+</map>

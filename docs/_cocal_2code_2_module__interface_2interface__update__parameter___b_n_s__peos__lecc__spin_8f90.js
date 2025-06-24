@@ -1,0 +1,4 @@
+var _cocal_2code_2_module__interface_2interface__update__parameter___b_n_s__peos__lecc__spin_8f90 =
+[
+    [ "update_parameter_bns_peos_lecc_spin", "interfaceinterface__update__parameter__bns__peos__lecc__spin_1_1update__parameter__bns__peos__lecc__spin.html", "interfaceinterface__update__parameter__bns__peos__lecc__spin_1_1update__parameter__bns__peos__lecc__spin" ]
+];

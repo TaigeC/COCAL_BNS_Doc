@@ -1,0 +1,46 @@
+<map id="coordinate_patch_kit_grav_grid" name="coordinate_patch_kit_grav_grid">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,505,147,548"/>
+<area shape="rect" id="Node000002" href="$namespacelegendre__fn__grav.html#a9e0c90d9575c05bf7a18be7cc2ea4b7d" title=" " alt="" coords="212,139,385,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="76,505,83,443,102,360,117,315,136,270,162,228,193,191,197,187,201,191,197,195,166,231,141,272,122,316,107,361,88,444,81,505"/>
+<area shape="rect" id="Node000006" href="$namespacetrigonometry__grav__phi.html#acb9b558c9337ab9102430c343a62ef06" title=" " alt="" coords="215,5,382,48"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="77,505,91,410,115,276,131,208,149,145,170,94,193,58,200,51,204,55,197,62,175,96,154,147,136,209,120,277,96,410,83,505"/>
+<area shape="rect" id="Node000007" href="$namespaceweight__midpoint__grav.html#a97119661efcfb251ed4b402e44d5ef5a" title=" " alt="" coords="195,72,402,115"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="74,505,78,433,93,332,108,276,129,222,157,170,193,125,195,122,199,126,197,128,161,173,134,224,113,278,99,333,83,434,80,505"/>
+<area shape="rect" id="Node000008" href="$namespacecoordinate__grav__extended.html#a0b601bedeb13905d24d38a84a074b30b" title=" " alt="" coords="212,205,385,248"/>
+<area shape="poly" id="edge10_Node000001_Node000008" title=" " alt="" coords="78,504,89,454,110,388,144,319,166,286,193,258,197,255,200,259,197,262,171,290,149,321,115,390,94,456,83,505"/>
+<area shape="rect" id="Node000009" href="$namespacecoordinate__grav__phi.html#aad4cf66abda4100952f54007a1999332" title=" " alt="" coords="230,272,367,315"/>
+<area shape="poly" id="edge11_Node000001_Node000009" title=" " alt="" coords="82,504,96,466,120,418,152,368,193,325,214,311,217,316,196,329,156,371,124,420,101,468,87,506"/>
+<area shape="rect" id="Node000010" href="$namespacecoordinate__grav__r.html#abb0f61ea76e2da00776c8a84c06695cd" title=" " alt="" coords="232,339,364,381"/>
+<area shape="poly" id="edge12_Node000001_Node000010" title=" " alt="" coords="89,503,131,448,160,417,193,391,217,379,219,383,196,396,164,421,135,451,93,507"/>
+<area shape="rect" id="Node000011" href="$namespacecoordinate__grav__r.html#ad31dad954212e5771bdbb859d360838d" title=" " alt="" coords="232,405,364,448"/>
+<area shape="poly" id="edge13_Node000001_Node000011" title=" " alt="" coords="110,503,194,458,217,448,219,453,196,462,113,507"/>
+<area shape="rect" id="Node000012" href="$namespacecoordinate__grav__r.html#a3941055e944bb545e5ba8ec45b68e292" title=" " alt="" coords="232,472,364,515"/>
+<area shape="poly" id="edge14_Node000001_Node000012" title=" " alt="" coords="146,513,217,503,217,508,147,519"/>
+<area shape="rect" id="Node000013" href="$namespacecoordinate__grav__r.html#a9bc78f08008df8358cd5507cc373b984" title=" " alt="" coords="232,539,364,581"/>
+<area shape="poly" id="edge15_Node000001_Node000013" title=" " alt="" coords="147,535,217,545,217,550,146,540"/>
+<area shape="rect" id="Node000014" href="$namespacecoordinate__grav__r.html#ae72b93cfa6a4f65980fa63f0b657eac8" title=" " alt="" coords="232,605,364,648"/>
+<area shape="poly" id="edge16_Node000001_Node000014" title=" " alt="" coords="113,546,196,591,219,600,217,605,194,596,110,551"/>
+<area shape="rect" id="Node000015" href="$namespacecoordinate__grav__theta.html#a65dfcff44d5a6af2c818a661c83bd4f6" title=" " alt="" coords="224,672,373,715"/>
+<area shape="poly" id="edge17_Node000001_Node000015" title=" " alt="" coords="93,547,135,602,164,632,196,658,211,666,208,671,193,662,160,636,131,606,89,550"/>
+<area shape="rect" id="Node000016" href="$namespacelegendre__fn__grav.html#a9ef8f013ef190157ace260fd3563d6d0" title=" " alt="" coords="210,739,387,765"/>
+<area shape="poly" id="edge18_Node000001_Node000016" title=" " alt="" coords="86,548,101,586,123,634,155,683,174,705,196,725,203,729,200,734,193,729,171,709,151,687,119,637,96,588,81,550"/>
+<area shape="rect" id="Node000018" href="$namespacetrigonometry__grav__phi.html#a4408d5c14949bc69d1f8b4a99070624c" title=" " alt="" coords="224,789,373,832"/>
+<area shape="poly" id="edge20_Node000001_Node000018" title=" " alt="" coords="84,548,96,595,117,656,150,720,172,750,196,775,211,786,208,790,193,779,168,753,146,723,113,658,91,597,79,549"/>
+<area shape="rect" id="Node000019" href="$namespacetrigonometry__grav__theta.html#a5bb21cb52011c5b9471702220daa8a34" title=" " alt="" coords="218,856,379,899"/>
+<area shape="poly" id="edge21_Node000001_Node000019" title=" " alt="" coords="82,548,90,607,109,686,124,728,143,769,167,808,197,842,206,850,203,854,193,846,163,811,138,772,119,730,104,687,85,608,76,549"/>
+<area shape="rect" id="Node000020" href="$namespaceweight__midpoint__grav.html#afbb06df58eb61d85f140ee94a7bbddf9" title=" " alt="" coords="205,923,392,965"/>
+<area shape="poly" id="edge22_Node000001_Node000020" title=" " alt="" coords="80,548,84,617,100,714,115,766,135,818,162,866,197,909,199,911,195,915,193,912,158,869,131,820,110,768,95,715,79,618,75,549"/>
+<area shape="rect" id="Node000021" href="$namespaceweight__midpoint__grav.html#a02ff698b448c490600ca7427afd51234" title=" " alt="" coords="221,989,376,1048"/>
+<area shape="poly" id="edge23_Node000001_Node000021" title=" " alt="" coords="79,549,81,627,86,681,95,740,109,803,130,864,159,923,197,976,210,987,206,991,193,979,154,926,125,867,104,804,90,741,81,682,76,627,74,549"/>
+<area shape="rect" id="Node000003" href="$namespacemake__array__1d.html#a89b8378d70e9da3d10f3a2e5f314094e" title=" " alt="" coords="466,172,611,215"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="386,169,451,178,450,184,385,175"/>
+<area shape="rect" id="Node000004" href="$namespacemake__array__2d.html#a40253e8ea445637de914ef4699cf452a" title=" " alt="" coords="466,39,611,81"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="375,136,401,124,425,108,449,91,459,86,462,90,451,96,428,112,403,129,377,141"/>
+<area shape="rect" id="Node000005" href="$namespacemake__array__3d.html#a35665381c488786ccddb173f79c2f89a" title=" " alt="" coords="466,105,611,148"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="385,145,450,136,451,142,386,151"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="382,36,451,45,450,50,382,41"/>
+<area shape="poly" id="edge8_Node000007_Node000004" title=" " alt="" coords="402,76,450,70,451,75,403,82"/>
+<area shape="poly" id="edge9_Node000007_Node000005" title=" " alt="" coords="403,105,451,112,450,117,402,110"/>
+<area shape="rect" id="Node000017" href="$namespacelegendre__fn__grav.html#ad88a1d731c862c20584a434b67c33696" title=" " alt="" coords="450,731,627,773"/>
+<area shape="poly" id="edge19_Node000016_Node000017" title=" " alt="" coords="387,749,435,749,435,755,387,755"/>
+</map>

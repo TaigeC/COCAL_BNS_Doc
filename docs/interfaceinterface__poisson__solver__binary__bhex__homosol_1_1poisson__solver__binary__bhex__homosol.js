@@ -1,0 +1,5 @@
+var interfaceinterface__poisson__solver__binary__bhex__homosol_1_1poisson__solver__binary__bhex__homosol =
+[
+    [ "poisson_solver_binary_bhex_homosol", "interfaceinterface__poisson__solver__binary__bhex__homosol_1_1poisson__solver__binary__bhex__homosol.html#a43f40bda817716701d868086fe06ffe2", null ],
+    [ "poisson_solver_binary_bhex_homosol", "interfaceinterface__poisson__solver__binary__bhex__homosol_1_1poisson__solver__binary__bhex__homosol.html#a43f40bda817716701d868086fe06ffe2", null ]
+];

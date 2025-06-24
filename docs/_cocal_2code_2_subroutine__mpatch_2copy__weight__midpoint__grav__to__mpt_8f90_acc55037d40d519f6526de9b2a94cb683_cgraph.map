@@ -1,0 +1,9 @@
+<map id="copy_weight_midpoint_grav_to_mpt" name="copy_weight_midpoint_grav_to_mpt">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,72,156,115"/>
+<area shape="rect" id="Node000002" href="$namespacecopy__array__2dto3d__mpt.html#a723d3ec3e1bb0aadc7e9f7e75e2b508d" title=" " alt="" coords="208,5,370,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="148,69,205,51,206,56,150,74"/>
+<area shape="rect" id="Node000003" href="$namespacecopy__array__3dto4d__mpt.html#ab3611708691932b2880b5966a12e9dbc" title=" " alt="" coords="208,72,370,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="156,91,192,91,192,96,156,96"/>
+<area shape="rect" id="Node000004" href="$namespacecopy__array__static__1dto2d__mpt.html#a3cb9b2344b9b79c0c4ee72fcf1559a96" title=" " alt="" coords="204,139,374,197"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="143,113,192,130,190,135,142,118"/>
+</map>

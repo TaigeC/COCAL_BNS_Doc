@@ -1,0 +1,5 @@
+var interfaceinterface__sourceterm__exsurf__binary__parity_1_1sourceterm__exsurf__binary__parity =
+[
+    [ "sourceterm_exsurf_binary_parity", "interfaceinterface__sourceterm__exsurf__binary__parity_1_1sourceterm__exsurf__binary__parity.html#a49d5d37682ff90be6089c820426b788f", null ],
+    [ "sourceterm_exsurf_binary_parity", "interfaceinterface__sourceterm__exsurf__binary__parity_1_1sourceterm__exsurf__binary__parity.html#a49d5d37682ff90be6089c820426b788f", null ]
+];

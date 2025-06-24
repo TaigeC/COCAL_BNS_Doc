@@ -1,0 +1,5 @@
+var interfaceinterface__update__parameter__bns__peos__lecc__spin_1_1update__parameter__bns__peos__lecc__spin =
+[
+    [ "update_parameter_bns_peos_lecc_spin", "interfaceinterface__update__parameter__bns__peos__lecc__spin_1_1update__parameter__bns__peos__lecc__spin.html#a74bb5aa95570c18d30c6d03a7d21a101", null ],
+    [ "update_parameter_bns_peos_lecc_spin", "interfaceinterface__update__parameter__bns__peos__lecc__spin_1_1update__parameter__bns__peos__lecc__spin.html#a74bb5aa95570c18d30c6d03a7d21a101", null ]
+];

@@ -1,0 +1,4 @@
+var namespaceinterface__sourceterm__mwspatial__current__wl =
+[
+    [ "sourceterm_mwspatial_current_wl", "interfaceinterface__sourceterm__mwspatial__current__wl_1_1sourceterm__mwspatial__current__wl.html", "interfaceinterface__sourceterm__mwspatial__current__wl_1_1sourceterm__mwspatial__current__wl" ]
+];

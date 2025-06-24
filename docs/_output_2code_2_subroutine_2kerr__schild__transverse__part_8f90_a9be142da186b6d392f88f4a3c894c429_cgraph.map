@@ -1,0 +1,7 @@
+<map id="kerr_schild_transverse_part" name="kerr_schild_transverse_part">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,187,57"/>
+<area shape="rect" id="Node000002" href="$_cocal_2code_2_subroutine_2kerr__schild__grad_h_8f90.html#a77a2a6970aaa2fdce4fe383e442d97cc" title=" " alt="" coords="249,5,372,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="187,31,233,25,234,30,187,36"/>
+<area shape="rect" id="Node000003" href="$_cocal_2code_2_subroutine_2kerr__schild__r__lv__home_8f90.html#a3505d1b40c5d4a7e48e78fc9a9571f9d" title=" " alt="" coords="235,56,386,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="187,52,220,56,219,61,187,57"/>
+</map>

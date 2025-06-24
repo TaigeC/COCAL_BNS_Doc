@@ -1,0 +1,4 @@
+var namespaceinterface__calc__surface__normal__tangent__midpoint =
+[
+    [ "calc_surface_normal_tangent_midpoint", "interfaceinterface__calc__surface__normal__tangent__midpoint_1_1calc__surface__normal__tangent__midpoint.html", "interfaceinterface__calc__surface__normal__tangent__midpoint_1_1calc__surface__normal__tangent__midpoint" ]
+];

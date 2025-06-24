@@ -1,0 +1,5 @@
+var interfaceinterface__helmholtz__solver__binary__bhex__homosol_1_1helmholtz__solver__binary__bhex__homosol =
+[
+    [ "helmholtz_solver_binary_bhex_homosol", "interfaceinterface__helmholtz__solver__binary__bhex__homosol_1_1helmholtz__solver__binary__bhex__homosol.html#ac08b2c98646a7324f598ef6b314ccf78", null ],
+    [ "helmholtz_solver_binary_bhex_homosol", "interfaceinterface__helmholtz__solver__binary__bhex__homosol_1_1helmholtz__solver__binary__bhex__homosol.html#ac08b2c98646a7324f598ef6b314ccf78", null ]
+];

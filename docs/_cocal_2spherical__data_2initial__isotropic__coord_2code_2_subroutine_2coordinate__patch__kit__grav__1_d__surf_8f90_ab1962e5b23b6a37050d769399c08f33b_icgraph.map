@@ -1,0 +1,7 @@
+<map id="coordinate_patch_kit_grav_1d_surf" name="coordinate_patch_kit_grav_1d_surf">
+<area shape="rect" id="Node000001" title=" " alt="" coords="192,39,333,81"/>
+<area shape="rect" id="Node000002" href="$_cocal_2spherical__data_2initial__isotropic__coord_2code_2_import__isotr__peos__surf_8f90.html#a554fe40e14f3e4a5a706031e8bf602e4" title=" " alt="" coords="5,5,144,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="176,47,143,42,144,36,177,42"/>
+<area shape="rect" id="Node000003" href="$_cocal_2spherical__data_2initial__isotropic__coord_2code_2_import__isotr__qeos__surf_8f90.html#ac65872c7fb87a899ddf6a2f4a2584683" title=" " alt="" coords="5,72,144,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="177,78,144,84,143,78,176,73"/>
+</map>

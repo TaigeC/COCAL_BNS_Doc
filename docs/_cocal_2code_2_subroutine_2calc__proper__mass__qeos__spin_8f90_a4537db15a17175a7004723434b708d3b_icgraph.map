@@ -1,0 +1,15 @@
+<map id="calc_proper_mass_qeos_spin" name="calc_proper_mass_qeos_spin">
+<area shape="rect" id="Node000001" title=" " alt="" coords="610,71,804,97"/>
+<area shape="rect" id="Node000002" href="$_cocal_2code_2_subroutine__mpatch_2calc__physical__quantities___b_q_s___c_f__mpt_8f90.html#a1cd236e5d6e35993cbcbb498bafbf3ea" title=" " alt="" coords="399,63,562,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="595,87,563,87,563,81,595,81"/>
+<area shape="rect" id="Node000003" href="$_cocal_2code_2_main__code_2_main___b_q_s___c_f__mpt_8f90.html#a1981308af4216a9a9da6a6e72c165819" title=" " alt="" coords="5,5,183,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="420,59,350,36,265,23,183,20,183,14,265,18,352,31,421,54"/>
+<area shape="rect" id="Node000004" href="$_cocal_2_parallel_2_main___b_q_s___c_f__mpt_8f90___parallel_8f90.html#a0cddd32200da4e56c9fdc878f169a006" title=" " alt="" coords="12,67,176,109"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="383,88,176,90,176,84,383,82"/>
+<area shape="rect" id="Node000005" href="$_cocal_2code_2_subroutine__mpatch_2calc___b_q_s___c_f__mpt_8f90.html#aaae72713ecdccb39cf5e52321ad16080" title=" " alt="" coords="231,45,351,72"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="384,74,351,69,352,64,384,68"/>
+<area shape="rect" id="Node000006" href="$_cocal_2code_2_subroutine__mpatch_2calc___b_q_s___c_f__mpt__old_8f90.html#a77d68ca641ee65949830579fa2faf8f7" title=" " alt="" coords="231,147,351,173"/>
+<area shape="poly" id="edge7_Node000002_Node000006" title=" " alt="" coords="412,114,327,149,325,144,410,109"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="215,46,163,35,164,30,216,41"/>
+<area shape="poly" id="edge6_Node000005_Node000004" title=" " alt="" coords="216,72,176,78,176,73,215,67"/>
+</map>

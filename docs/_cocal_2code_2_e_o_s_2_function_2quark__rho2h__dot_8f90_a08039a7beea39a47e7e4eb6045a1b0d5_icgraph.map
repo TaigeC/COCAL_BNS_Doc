@@ -1,0 +1,15 @@
+<map id="quark_rho2h_dot" name="quark_rho2h_dot">
+<area shape="rect" id="Node000001" title=" " alt="" coords="384,68,501,95"/>
+<area shape="poly" id="edge8_Node000001_Node000001" title=" " alt="" coords="468,55,459,49,443,47,427,49,419,53,417,59,421,66,416,69,411,59,415,50,425,44,443,41,461,44,471,51"/>
+<area shape="rect" id="Node000002" href="$_cocal_2spherical__data_2_t_o_v__schwartzshild__coord_2_t_o_v__qeos__isotr_8f90.html#ae3935f2da2388b1fa5851ad7dfed4ecf" title=" " alt="" coords="21,5,180,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="405,62,372,46,335,33,256,21,180,18,181,12,257,15,337,28,374,41,407,58"/>
+<area shape="rect" id="Node000003" href="$_cocal_2code_2_subroutine_2hydrostatic__eq___c_f__qeos__spin_8f90.html#ae5fb7e9a6e4aeb0046521b02fb89cace" title=" " alt="" coords="5,68,196,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="368,84,196,84,196,79,368,79"/>
+<area shape="rect" id="Node000004" href="$_cocal_2code_2_subroutine_2hydrostatic__eq__qeos_8f90.html#a948c95385a29ab70766691df20379ea8" title=" " alt="" coords="30,131,171,157"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="369,97,172,134,171,129,368,92"/>
+<area shape="rect" id="Node000005" href="$_cocal_2code_2_e_o_s_2_subroutine_2quark__h2rho_8f90.html#a8eb6e6e7b8db388d6478732d936a9fb8" title=" " alt="" coords="244,43,336,69"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="368,72,336,66,337,61,369,66"/>
+<area shape="poly" id="edge5_Node000005_Node000002" title=" " alt="" coords="228,47,171,35,172,30,229,41"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="229,67,196,71,196,66,228,62"/>
+<area shape="poly" id="edge7_Node000005_Node000004" title=" " alt="" coords="253,80,197,109,141,133,139,128,195,104,250,75"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="poisson_solver_binary_star_homosol_plmex" name="poisson_solver_binary_star_homosol_plmex">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,72,156,115"/>
+<area shape="rect" id="Node000002" href="$namespacemake__array__3d.html#a35665381c488786ccddb173f79c2f89a" title=" " alt="" coords="230,5,375,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="153,69,214,50,215,55,154,74"/>
+<area shape="rect" id="Node000003" href="$namespaceradial__green__fn__grav__bhex__nb.html#a1fb467761b507edb12958212b98aea96" title=" " alt="" coords="204,72,401,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="156,91,188,91,188,96,156,96"/>
+<area shape="rect" id="Node000004" href="$namespaceradial__green__fn__grav__bhex__sd.html#a5fae0616d96e773026757213a6e63ed5" title=" " alt="" coords="204,139,401,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="154,113,215,131,214,136,153,118"/>
+</map>

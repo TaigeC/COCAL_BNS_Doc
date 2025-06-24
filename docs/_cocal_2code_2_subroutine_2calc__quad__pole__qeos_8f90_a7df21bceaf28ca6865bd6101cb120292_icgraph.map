@@ -1,0 +1,13 @@
+<map id="calc_quad_pole_qeos" name="calc_quad_pole_qeos">
+<area shape="rect" id="Node000001" title=" " alt="" coords="441,57,587,84"/>
+<area shape="rect" id="Node000002" href="$_cocal_2code_2_main__code_2_main___r_q_s___c_f__qeos_8f90.html#a616bbd6ffc75f446ead38bcbb7d91e1f" title=" " alt="" coords="5,5,147,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="474,52,435,35,392,23,328,14,263,12,147,19,147,14,263,6,329,9,394,17,437,30,476,48"/>
+<area shape="rect" id="Node000003" href="$_cocal_2code_2_main__code_2_main___r_q_s___c_f__qeos__v1_8f90.html#a3e8e1b5df86aeda87d229db73f006cb5" title=" " alt="" coords="5,93,147,136"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="426,82,147,110,147,105,425,77"/>
+<area shape="rect" id="Node000004" href="$_cocal_2code_2_subroutine_2calc__physical__quantities__qeos_8f90.html#ac39ce5f9c2461bc678a5058add949d39" title=" " alt="" coords="195,32,393,59"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="425,63,393,59,394,54,426,58"/>
+<area shape="rect" id="Node000005" href="$_cocal_2code_2_subroutine_2calc__physical__quantities__qeos__v1_8f90.html#ad8a8668bf97d6af135cd6f539ea028af" title=" " alt="" coords="212,133,376,176"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="464,92,353,135,351,130,462,87"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="179,38,147,35,147,30,180,33"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="197,140,147,130,148,125,198,134"/>
+</map>

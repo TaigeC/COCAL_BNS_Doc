@@ -1,0 +1,4 @@
+var namespaceinterface__update__parameter__bns__peos__lecc__spin =
+[
+    [ "update_parameter_bns_peos_lecc_spin", "interfaceinterface__update__parameter__bns__peos__lecc__spin_1_1update__parameter__bns__peos__lecc__spin.html", "interfaceinterface__update__parameter__bns__peos__lecc__spin_1_1update__parameter__bns__peos__lecc__spin" ]
+];

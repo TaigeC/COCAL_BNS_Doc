@@ -1,0 +1,5 @@
+var interfaceinterface__poisson__solver__homogeneous__sol__lecc_1_1poisson__solver__homogeneous__sol__lecc =
+[
+    [ "poisson_solver_homogeneous_sol_lecc", "interfaceinterface__poisson__solver__homogeneous__sol__lecc_1_1poisson__solver__homogeneous__sol__lecc.html#abe2f29186cb0cb96353798fb1600d78c", null ],
+    [ "poisson_solver_homogeneous_sol_lecc", "interfaceinterface__poisson__solver__homogeneous__sol__lecc_1_1poisson__solver__homogeneous__sol__lecc.html#abe2f29186cb0cb96353798fb1600d78c", null ]
+];

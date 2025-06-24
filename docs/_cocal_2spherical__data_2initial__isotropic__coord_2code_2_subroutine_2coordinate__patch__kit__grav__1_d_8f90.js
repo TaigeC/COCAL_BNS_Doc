@@ -1,0 +1,4 @@
+var _cocal_2spherical__data_2initial__isotropic__coord_2code_2_subroutine_2coordinate__patch__kit__grav__1_d_8f90 =
+[
+    [ "coordinate_patch_kit_grav_1d", "_cocal_2spherical__data_2initial__isotropic__coord_2code_2_subroutine_2coordinate__patch__kit__grav__1_d_8f90.html#aca6a3f9274d14f37a668793689c761df", null ]
+];

@@ -1,0 +1,9 @@
+<map id="io_output_plot_xyz_bns_cf_mpt" name="io_output_plot_xyz_bns_cf_mpt">
+<area shape="rect" id="Node000001" title=" " alt="" coords="213,96,343,139"/>
+<area shape="rect" id="Node000002" href="$_cocal_2code_2_main__utility_2interpolation__contour__potential__corot___b_n_s___c_f__3mpt_8f90.html#a85a830e908e696f4d7ec01efc3635db8" title=" " alt="" coords="5,5,165,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="211,92,154,67,156,62,213,87"/>
+<area shape="rect" id="Node000003" href="$_cocal_2code_2_main__utility_2interpolation__contour__potential__irrot___b_n_s___c_f__3mpt_8f90.html#aa532c11e67f80869105c0d970c7a76f6" title=" " alt="" coords="7,88,163,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="197,120,163,120,163,115,197,115"/>
+<area shape="rect" id="Node000004" href="$_cocal_2code_2_main__utility_2interpolation__contour__potential__spin___b_n_s___c_f__3mpt_8f90.html#afb97f07e12ded2cc2d0c68e6521ba046" title=" " alt="" coords="7,171,163,229"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="213,148,156,172,154,168,211,143"/>
+</map>

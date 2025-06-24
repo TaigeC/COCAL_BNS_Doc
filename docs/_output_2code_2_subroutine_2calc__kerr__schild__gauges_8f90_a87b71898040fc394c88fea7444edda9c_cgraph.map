@@ -1,0 +1,16 @@
+<map id="calc_kerr_schild_gauges" name="calc_kerr_schild_gauges">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,80,170,107"/>
+<area shape="rect" id="Node000002" href="$_cocal_2code_2_subroutine_2calc__kerr__schild_8f90.html#a9ff1be79471bcda34d5bdb2d9f7a5e7c" title=" " alt="" coords="232,55,347,81"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="170,80,216,74,217,80,170,86"/>
+<area shape="rect" id="Node000006" href="$_cocal_2code_2_subroutine_2calc__kerr__schild__grid_8f90.html#a224feebe1c50db3bdf14083cdac2517a" title=" " alt="" coords="218,105,361,132"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="170,101,203,105,202,110,170,106"/>
+<area shape="rect" id="Node000003" href="$namespacemake__array__1d.html#a89b8378d70e9da3d10f3a2e5f314094e" title=" " alt="" coords="409,5,554,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="347,53,393,43,394,48,348,58"/>
+<area shape="rect" id="Node000004" href="$namespacemake__array__2d.html#a40253e8ea445637de914ef4699cf452a" title=" " alt="" coords="409,72,554,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="348,73,394,79,393,84,347,78"/>
+<area shape="rect" id="Node000005" href="$namespacemake__array__3d.html#a35665381c488786ccddb173f79c2f89a" title=" " alt="" coords="409,139,554,181"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="336,80,362,91,387,107,410,124,419,129,416,134,408,129,384,112,360,96,334,84"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="334,102,360,91,384,75,408,58,416,53,419,58,410,62,387,79,362,96,336,107"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="361,107,393,102,394,108,362,112"/>
+<area shape="poly" id="edge8_Node000006_Node000005" title=" " alt="" coords="355,130,394,139,393,144,354,135"/>
+</map>

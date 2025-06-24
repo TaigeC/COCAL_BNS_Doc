@@ -1,0 +1,13 @@
+<map id="coordinate_patch_kit_grav_nogreen_mpt" name="coordinate_patch_kit_grav_nogreen_mpt">
+<area shape="rect" id="Node000001" title=" " alt="" coords="252,171,393,213"/>
+<area shape="rect" id="Node000002" href="$_cocal_2code_2_main__utility_2interpolation__contour__potential__bbh__2pot__test2__mpt_8f90.html#af9f75076db260c5de575e22ca9bc767f" title=" " alt="" coords="18,5,191,64"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="292,160,251,118,202,78,183,67,186,62,205,74,255,115,295,157"/>
+<area shape="rect" id="Node000003" href="$_cocal_2code_2_main__utility_2interpolation__contour__potential__bbh__2pot__test__mpt_8f90.html#a5a169d2752762baa64cfd6ab3f7fd8db" title=" " alt="" coords="21,88,188,147"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="243,168,187,148,189,143,244,163"/>
+<area shape="rect" id="Node000004" href="$_cocal_2code_2_main__utility_2interpolation__contour__potential___b_b_h___c_f__3mpt_8f90.html#abbf76ffca213432ac7666a7df4445810" title=" " alt="" coords="5,171,204,213"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="236,195,204,195,204,189,236,189"/>
+<area shape="rect" id="Node000005" href="$_cocal_2code_2_main__utility_2interpolation__contour__potential__binary__test__mpt_8f90.html#a3cb6dccc67e7f825a9a168e26401ec1a" title=" " alt="" coords="27,237,182,296"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="244,221,183,243,182,238,243,216"/>
+<area shape="rect" id="Node000006" href="$_cocal_2code_2_main__utility_2interpolation__contour__wave__binary__test__mpt_8f90.html#a329334cb2ccef78dc14a4cebd312a61f" title=" " alt="" coords="5,320,204,363"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="297,227,256,270,205,310,183,322,180,317,202,306,253,266,293,223"/>
+</map>

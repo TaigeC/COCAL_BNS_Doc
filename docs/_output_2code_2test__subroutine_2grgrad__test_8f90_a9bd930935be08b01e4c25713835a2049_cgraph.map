@@ -1,0 +1,17 @@
+<map id="coordinate_patch_kit_grav" name="coordinate_patch_kit_grav">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,213,179,240"/>
+<area shape="rect" id="Node000002" href="$namespacecoordinate__grav__extended.html#a0b601bedeb13905d24d38a84a074b30b" title=" " alt="" coords="227,5,400,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="99,212,146,140,182,96,225,58,231,54,234,58,228,62,186,100,150,143,103,214"/>
+<area shape="rect" id="Node000003" href="$namespacecoordinate__grav__phi.html#aad4cf66abda4100952f54007a1999332" title=" " alt="" coords="245,72,382,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="107,211,158,169,225,124,235,119,238,124,228,129,161,174,110,215"/>
+<area shape="rect" id="Node000004" href="$namespacecoordinate__grav__r.html#abb0f61ea76e2da00776c8a84c06695cd" title=" " alt="" coords="247,139,380,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="138,210,231,182,233,187,140,215"/>
+<area shape="rect" id="Node000005" href="$namespacecoordinate__grav__theta.html#a65dfcff44d5a6af2c818a661c83bd4f6" title=" " alt="" coords="239,205,388,248"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="179,224,223,224,223,229,179,229"/>
+<area shape="rect" id="Node000006" href="$namespacegrid__parameter.html#af0a24c73bc93bdca323f8c195196dff1" title=" " alt="" coords="243,272,384,315"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="140,238,229,265,227,270,138,243"/>
+<area shape="rect" id="Node000007" href="$namespacetrigonometry__grav__phi.html#a4408d5c14949bc69d1f8b4a99070624c" title=" " alt="" coords="239,339,388,381"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="110,238,161,280,228,324,238,329,235,334,225,329,158,284,107,243"/>
+<area shape="rect" id="Node000008" href="$namespacetrigonometry__grav__theta.html#a5bb21cb52011c5b9471702220daa8a34" title=" " alt="" coords="233,405,394,448"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="103,239,150,310,186,353,228,391,234,395,231,399,225,395,182,357,146,314,99,242"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="fluidco" name="fluidco">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,65,57"/>
+<area shape="rect" id="Node000002" href="$_cocal_2spherical__data_2initial__isotropic__coord_2code_2_subroutine_2flimpro_8f90.html#a32c5c788c055b8d0675c1018e4eedb75" title=" " alt="" coords="134,5,194,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="65,36,118,25,120,30,66,41"/>
+<area shape="rect" id="Node000003" href="$_cocal_2spherical__data_2initial__isotropic__coord_2code_2_subroutine_2paimproco__frg_8f90.html#a9b9151a71280c001cd2161015acde894" title=" " alt="" coords="113,56,216,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="66,47,98,54,97,59,65,52"/>
+</map>

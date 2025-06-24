@@ -1,0 +1,9 @@
+<map id="calc_physq_center_grid" name="calc_physq_center_grid">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,164,57"/>
+<area shape="rect" id="Node000002" href="$_cocal_2code_2_e_o_s_2_subroutine_2peos__q2hprho_8f90.html#a4d6a29a75c28975ef2c98ec27b4f1f61" title=" " alt="" coords="240,5,342,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="164,32,225,24,225,29,165,37"/>
+<area shape="rect" id="Node000004" href="$_cocal_2code_2_e_o_s_2_subroutine_2quark__rho2phenedpdrho_8f90.html#a4b8cf5f866329af535ada9261c944c31" title=" " alt="" coords="212,56,371,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="165,51,197,55,196,60,164,56"/>
+<area shape="rect" id="Node000003" href="$_cocal_2code_2_e_o_s_2_subroutine_2peos__lookup_8f90.html#ada375ef2401a06d5551f7c380cbddada" title=" " alt="" coords="419,5,513,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="343,16,403,16,403,21,343,21"/>
+</map>

@@ -1,0 +1,4 @@
+var _output_2spherical__data_2_t_o_v__schwartzshild__coord_2_subroutine___t_o_v_2printout___t_o_v__p5c7d5a7a25b1373f7fd6ae76fa017658 =
+[
+    [ "printout_tov_profile_isotr_quark_tidal", "_output_2spherical__data_2_t_o_v__schwartzshild__coord_2_subroutine___t_o_v_2printout___t_o_v__p5c7d5a7a25b1373f7fd6ae76fa017658.html#a7cea644298a10d3061f83cb2132e6175", null ]
+];

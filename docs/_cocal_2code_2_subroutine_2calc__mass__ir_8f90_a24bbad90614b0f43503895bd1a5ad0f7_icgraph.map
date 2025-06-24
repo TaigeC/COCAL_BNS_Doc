@@ -1,0 +1,29 @@
+<map id="calc_mass_ir" name="calc_mass_ir">
+<area shape="rect" id="Node000001" title=" " alt="" coords="919,64,1017,91"/>
+<area shape="rect" id="Node000002" href="$_cocal_2code_2_subroutine_2calc__ang__mom___b_b_h___c_f__inf_8f90.html#a1f3e435e450904535e301c17bbd84b54" title=" " alt="" coords="689,13,866,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="903,63,830,43,831,38,904,58"/>
+<area shape="rect" id="Node000011" href="$_cocal_2code_2_subroutine_2calc__mass___b_b_h___c_f_8f90.html#aff0d3e39c65de842cdef18cd116534a9" title=" " alt="" coords="712,64,843,91"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="903,80,843,80,843,75,903,75"/>
+<area shape="rect" id="Node000012" href="$_cocal_2code_2_subroutine_2calc__mass___b_b_h___c_f__adm__vol_8f90.html#a8a9ddb2374f7da3c440d22448e99afb6" title=" " alt="" coords="684,115,871,141"/>
+<area shape="poly" id="edge13_Node000001_Node000012" title=" " alt="" coords="904,97,831,117,830,111,903,92"/>
+<area shape="rect" id="Node000003" href="$_cocal_2code_2_main__utility_2interpolation__contour__potential___b_b_h___c_f__type2_8f90.html#af4fc848ed7a4164964858f6e84656bc9" title=" " alt="" coords="435,23,636,65"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="674,37,637,39,636,34,673,31"/>
+<area shape="rect" id="Node000004" href="$_cocal_2code_2_subroutine_2calc__physical__quantities___b_b_h___c_f_8f90.html#ac822d9238c3098f92d3df55a90864f4c" title=" " alt="" coords="454,89,617,132"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="705,48,685,54,637,80,608,91,606,86,635,75,683,50,703,43"/>
+<area shape="rect" id="Node000005" href="$_cocal_2code_2_subroutine_2calc__circular__orbit_8f90.html#ab10285b64faa311acf4ccada99c18a97" title=" " alt="" coords="245,39,372,65"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="439,88,363,69,364,63,440,83"/>
+<area shape="rect" id="Node000008" href="$_cocal_2code_2_subroutine__mpatch_2calc__circular__orbit___b_n_s__mpt_8f90.html#a7c8d44523d384af122342fd0a18bd37a" title=" " alt="" coords="245,89,372,132"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="439,113,372,113,372,108,439,108"/>
+<area shape="rect" id="Node000009" href="$_cocal_2code_2_subroutine_2calc__circular__orbit__spin_8f90.html#a98d872a1ef195556da06712da8f7510b" title=" " alt="" coords="230,156,387,183"/>
+<area shape="poly" id="edge8_Node000004_Node000009" title=" " alt="" coords="440,138,364,158,363,153,439,133"/>
+<area shape="rect" id="Node000006" href="$_cocal_2code_2_main__code_2_main___b_b_h___c_f__circ_8f90.html#ac674b96fc0f8600ef50293ea8bb0bed4" title=" " alt="" coords="25,56,162,99"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="230,64,163,72,162,67,230,59"/>
+<area shape="rect" id="Node000007" href="$_cocal_2code_2_main__code_2_main___b_b_h___c_f__seq_8f90.html#aa9d41ba78cc435f4e8dbf490c0c03ee1" title=" " alt="" coords="5,5,182,32"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="230,43,182,35,182,30,231,37"/>
+<area shape="rect" id="Node000010" href="$_cocal_2code_2_main__code_2_main___b_b_h___c_f__circ__spin_8f90.html#ab0e1ba5e1dffde55de666fc82ec38a24" title=" " alt="" coords="25,148,162,191"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="214,172,163,172,163,167,214,167"/>
+<area shape="poly" id="edge11_Node000011_Node000003" title=" " alt="" coords="697,69,637,61,637,55,697,64"/>
+<area shape="poly" id="edge12_Node000011_Node000004" title=" " alt="" coords="697,91,618,102,618,97,697,86"/>
+<area shape="poly" id="edge14_Node000012_Node000003" title=" " alt="" coords="703,112,683,105,635,80,606,68,608,63,637,75,685,100,705,107"/>
+<area shape="poly" id="edge15_Node000012_Node000004" title=" " alt="" coords="669,123,618,119,618,114,669,118"/>
+</map>

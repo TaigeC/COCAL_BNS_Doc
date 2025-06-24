@@ -1,0 +1,11 @@
+<map id="hydrostatic_eq_cf_peos_spin" name="hydrostatic_eq_cf_peos_spin">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,196,57"/>
+<area shape="rect" id="Node000002" href="$_cocal_2code_2_subroutine_2calc__omega__drot_8f90.html#ae008e57a64982943766a7c57e226a6ed" title=" " alt="" coords="244,5,364,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="196,29,228,25,229,31,197,35"/>
+<area shape="rect" id="Node000004" href="$_cocal_2code_2_e_o_s_2_subroutine_2peos__h2qprho_8f90.html#af987539973b7d466279a04fbb081e191" title=" " alt="" coords="253,56,355,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="197,53,238,58,237,64,196,59"/>
+<area shape="rect" id="Node000003" href="$_cocal_2code_2_subroutine_2calc__omega__drot__bisection_8f90.html#adb9d3a9745f2036c77967ff5fed150eb" title=" " alt="" coords="412,5,591,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="364,16,396,16,396,21,364,21"/>
+<area shape="rect" id="Node000005" href="$_cocal_2code_2_e_o_s_2_subroutine_2peos__lookup_8f90.html#ada375ef2401a06d5551f7c380cbddada" title=" " alt="" coords="454,56,549,83"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="355,67,439,67,439,72,355,72"/>
+</map>

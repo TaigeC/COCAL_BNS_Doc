@@ -1,0 +1,4 @@
+var namespaceinterface__helmholtz__solver__binary__bhex__homosol =
+[
+    [ "helmholtz_solver_binary_bhex_homosol", "interfaceinterface__helmholtz__solver__binary__bhex__homosol_1_1helmholtz__solver__binary__bhex__homosol.html", "interfaceinterface__helmholtz__solver__binary__bhex__homosol_1_1helmholtz__solver__binary__bhex__homosol" ]
+];

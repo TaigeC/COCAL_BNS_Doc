@@ -1,0 +1,7 @@
+<map id="rotation_law_wl_bht" name="rotation_law_wl_bht">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,142,32"/>
+<area shape="rect" id="Node000002" href="$_cocal_2code_2_subroutine_2calc__omega__drot___w_l_8f90.html#aae2ba942ef86bbaff96c6fb61fa8cf91" title=" " alt="" coords="190,5,330,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="142,16,174,16,174,21,142,21"/>
+<area shape="rect" id="Node000003" href="$_cocal_2code_2_subroutine_2calc__omega__drot__bisection_8f90.html#adb9d3a9745f2036c77967ff5fed150eb" title=" " alt="" coords="378,5,557,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="331,16,362,16,362,21,331,21"/>
+</map>

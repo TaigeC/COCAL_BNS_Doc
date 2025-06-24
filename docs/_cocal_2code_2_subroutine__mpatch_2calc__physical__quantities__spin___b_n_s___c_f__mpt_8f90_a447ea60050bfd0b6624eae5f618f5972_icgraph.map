@@ -1,0 +1,15 @@
+<map id="calc_physical_quantities_spin_bns_cf_mpt" name="calc_physical_quantities_spin_bns_cf_mpt">
+<area shape="rect" id="Node000001" title=" " alt="" coords="443,81,606,124"/>
+<area shape="rect" id="Node000002" href="$_cocal_2code_2_main__code_2_main___b_n_snem___c_f__spin__mpt_8f90.html#a60dc857f1d71682814e1374453fc24b8" title=" " alt="" coords="5,5,171,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="483,74,442,49,394,29,337,18,278,14,171,18,171,12,279,8,338,13,396,24,444,44,486,70"/>
+<area shape="rect" id="Node000003" href="$_cocal_2code_2_main__code_2_main__spin___b_n_s___c_f__mpt_8f90.html#ab39fb422921e0843215b378967e4fa13" title=" " alt="" coords="18,123,158,165"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="427,112,219,131,159,138,158,132,218,125,427,107"/>
+<area shape="rect" id="Node000004" href="$_cocal_2code_2_subroutine__mpatch_2calc___b_n_snem___c_f__spin__mpt_8f90.html#a911ede1a8dc7089cf88bd4cbaa59c346" title=" " alt="" coords="219,39,395,65"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="427,83,367,68,368,63,428,78"/>
+<area shape="rect" id="Node000005" href="$_cocal_2code_2_subroutine__mpatch_2calc__lecc__spin___b_n_s___c_f__mpt_8f90.html#a32569446273c0fa5296f78dfb1216a25" title=" " alt="" coords="239,140,374,183"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="430,131,376,146,374,141,428,126"/>
+<area shape="rect" id="Node000006" href="$_cocal_2code_2_subroutine__mpatch_2calc__spin___b_n_s___c_f__mpt_8f90.html#a74f8c37885b30f006b2c5594ac08eb5e" title=" " alt="" coords="231,207,382,233"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="488,136,446,168,396,197,367,209,365,204,394,192,443,163,485,132"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="203,43,171,39,171,34,203,37"/>
+<area shape="poly" id="edge7_Node000006_Node000003" title=" " alt="" coords="240,204,218,197,141,168,143,163,220,192,241,199"/>
+</map>

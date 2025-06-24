@@ -1,0 +1,9 @@
+<map id="interpo_fl2grmidpoint_1d" name="interpo_fl2grmidpoint_1d">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,67,168,93"/>
+<area shape="rect" id="Node000002" href="$_cocal_2spherical__data_2initial__isotropic__coord_2code_2_import__isotr__peos_8f90.html#ab7104a73bbcb7a0cd7c0c15cbddf7b5b" title=" " alt="" coords="230,29,300,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="153,63,214,50,215,56,154,69"/>
+<area shape="rect" id="Node000003" href="$_cocal_2spherical__data_2initial__isotropic__coord_2code_2_import__isotr__peos_8f90.html#a92da808681c4c64a21e563c7464f8a08" title=" " alt="" coords="216,104,314,131"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="154,91,201,101,200,106,153,97"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="234,30,229,21,233,11,245,5,265,3,286,5,298,12,295,16,285,10,265,8,246,10,236,15,234,20,239,28"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="234,105,229,95,233,86,245,79,265,77,286,80,298,86,295,91,285,85,265,83,246,85,236,89,234,95,239,102"/>
+</map>

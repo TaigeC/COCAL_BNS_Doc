@@ -1,0 +1,4 @@
+var namespaceinterface__poisson__solver__asymptotic__patch__homosol =
+[
+    [ "poisson_solver_asymptotic_patch_homosol", "interfaceinterface__poisson__solver__asymptotic__patch__homosol_1_1poisson__solver__asymptotic__patch__homosol.html", "interfaceinterface__poisson__solver__asymptotic__patch__homosol_1_1poisson__solver__asymptotic__patch__homosol" ]
+];

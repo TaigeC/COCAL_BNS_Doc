@@ -1,0 +1,9 @@
+<map id="calc_proper_mass" name="calc_proper_mass">
+<area shape="rect" id="Node000001" title=" " alt="" coords="431,47,558,73"/>
+<area shape="rect" id="Node000002" href="$_cocal_2code_2_subroutine_2calc__physical__quantities_8f90.html#a8d3384627efe38f9feef70305b3377ad" title=" " alt="" coords="220,47,383,73"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="415,63,384,63,384,57,415,57"/>
+<area shape="rect" id="Node000003" href="$_cocal_2code_2_main__code_2_main__old__interface_8f90.html#a3ce6a97f922f22639b861376ef70f06b" title=" " alt="" coords="16,5,161,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="204,47,161,41,161,35,205,42"/>
+<area shape="rect" id="Node000004" href="$_cocal_2code_2_main__code_2_main___r_n_s___c_f__polytrope_8f90.html#a79e1b80a8052035295b4a64ee9d20c0b" title=" " alt="" coords="5,72,172,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="205,78,172,83,172,78,204,73"/>
+</map>

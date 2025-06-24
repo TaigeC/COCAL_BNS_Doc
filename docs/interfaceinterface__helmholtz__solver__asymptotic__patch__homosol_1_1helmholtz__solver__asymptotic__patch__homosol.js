@@ -1,0 +1,5 @@
+var interfaceinterface__helmholtz__solver__asymptotic__patch__homosol_1_1helmholtz__solver__asymptotic__patch__homosol =
+[
+    [ "helmholtz_solver_asymptotic_patch_homosol", "interfaceinterface__helmholtz__solver__asymptotic__patch__homosol_1_1helmholtz__solver__asymptotic__patch__homosol.html#af48bfa84964c80915c32df6f7d80bcf7", null ],
+    [ "helmholtz_solver_asymptotic_patch_homosol", "interfaceinterface__helmholtz__solver__asymptotic__patch__homosol_1_1helmholtz__solver__asymptotic__patch__homosol.html#af48bfa84964c80915c32df6f7d80bcf7", null ]
+];

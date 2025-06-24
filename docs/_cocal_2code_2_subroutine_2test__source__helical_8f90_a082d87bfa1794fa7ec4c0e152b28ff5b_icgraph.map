@@ -1,0 +1,7 @@
+<map id="test_source_helical" name="test_source_helical">
+<area shape="rect" id="Node000001" title=" " alt="" coords="237,47,370,73"/>
+<area shape="rect" id="Node000002" href="$_cocal_2code_2_main__code_2_main__helmholtz__hrethadv__test_8f90.html#a5b37c689e335820115afe0229b0be408" title=" " alt="" coords="5,5,189,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="221,49,189,44,189,39,222,44"/>
+<area shape="rect" id="Node000003" href="$_cocal_2code_2_main__code_2_main__helmholtz__outgoing__test_8f90.html#a8a3b6a6e1d9e670a9d3b5157bd70e652" title=" " alt="" coords="6,72,188,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="222,76,189,81,188,76,221,71"/>
+</map>

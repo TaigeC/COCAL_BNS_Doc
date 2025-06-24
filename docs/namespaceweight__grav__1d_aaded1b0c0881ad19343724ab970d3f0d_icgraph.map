@@ -1,0 +1,21 @@
+<map id="weight_calc_grav_1d" name="weight_calc_grav_1d">
+<area shape="rect" id="Node000001" title=" " alt="" coords="414,252,557,279"/>
+<area shape="rect" id="Node000002" href="$_cocal_2spherical__data_2initial__isotropic__coord_2code_2_subroutine_2coordinate__patch__kit__grav__1_d_8f90.html#aca6a3f9274d14f37a668793689c761df" title=" " alt="" coords="225,156,366,199"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="440,247,342,202,345,197,442,243"/>
+<area shape="rect" id="Node000008" href="$_cocal_2spherical__data_2initial__isotropic__coord_2code_2_subroutine_2coordinate__patch__kit__grav__1_d__surf_8f90.html#ab1962e5b23b6a37050d769399c08f33b" title=" " alt="" coords="225,307,366,349"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="429,287,363,309,362,303,427,282"/>
+<area shape="rect" id="Node000003" href="$_cocal_2spherical__data_2initial__isotropic__coord_2code_2_import__isotr__peos_8f90.html#a857fbd2f7d657f38ca12a5377f7b4cb3" title=" " alt="" coords="22,5,160,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="266,146,225,103,175,62,155,51,157,46,178,58,229,99,269,142"/>
+<area shape="rect" id="Node000004" href="$_cocal_2spherical__data_2initial__isotropic__coord_2code_2_import__isotr__qeos_8f90.html#acca9797cba3053c3340cd51f9fe75f41" title=" " alt="" coords="22,72,160,115"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="230,152,176,129,148,118,150,113,178,124,232,147"/>
+<area shape="rect" id="Node000005" href="$_cocal_2spherical__data_2initial__isotropic__coord_2code_2_main__1_d_8f90.html#a8d35dae6d5764a91a54a97d43594f577" title=" " alt="" coords="29,139,153,165"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="209,169,152,162,153,157,209,164"/>
+<area shape="rect" id="Node000006" href="$_cocal_2spherical__data_2initial__isotropic__coord_2code_2_main__1_dini__peos_8f90.html#a4c7137129070def43830f13050b6604e" title=" " alt="" coords="5,189,177,216"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="209,191,177,195,177,189,209,185"/>
+<area shape="rect" id="Node000007" href="$_cocal_2spherical__data_2initial__isotropic__coord_2code_2_main__1_dini__peos__v1_8f90.html#a9c2dff12bb66e66a5b98e8fccffe72c1" title=" " alt="" coords="14,240,168,283"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="232,207,178,230,150,242,148,237,176,226,230,203"/>
+<area shape="rect" id="Node000009" href="$_cocal_2spherical__data_2initial__isotropic__coord_2code_2_import__isotr__peos__surf_8f90.html#a554fe40e14f3e4a5a706031e8bf602e4" title=" " alt="" coords="22,307,160,349"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="209,331,161,331,161,325,209,325"/>
+<area shape="rect" id="Node000010" href="$_cocal_2spherical__data_2initial__isotropic__coord_2code_2_import__isotr__qeos__surf_8f90.html#ac65872c7fb87a899ddf6a2f4a2584683" title=" " alt="" coords="22,373,160,416"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="214,357,160,375,158,370,213,352"/>
+</map>

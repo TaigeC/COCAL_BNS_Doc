@@ -1,0 +1,7 @@
+<map id="coordinate_patch_cartesian" name="coordinate_patch_cartesian">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,47,186,73"/>
+<area shape="rect" id="Node000002" href="$namespacecoordinate__grav__xyz.html#a0f8a5ad79b5ecde5294dabdf9d54adfa" title=" " alt="" coords="253,5,394,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="185,44,237,37,237,42,186,49"/>
+<area shape="rect" id="Node000003" href="$namespacegrid__parameter__cartesian.html#a70319d96ffbb6267197e2cdbe283da00" title=" " alt="" coords="234,72,413,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="186,71,219,75,218,81,185,76"/>
+</map>

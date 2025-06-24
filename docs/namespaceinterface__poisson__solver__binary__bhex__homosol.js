@@ -1,0 +1,4 @@
+var namespaceinterface__poisson__solver__binary__bhex__homosol =
+[
+    [ "poisson_solver_binary_bhex_homosol", "interfaceinterface__poisson__solver__binary__bhex__homosol_1_1poisson__solver__binary__bhex__homosol.html", "interfaceinterface__poisson__solver__binary__bhex__homosol_1_1poisson__solver__binary__bhex__homosol" ]
+];

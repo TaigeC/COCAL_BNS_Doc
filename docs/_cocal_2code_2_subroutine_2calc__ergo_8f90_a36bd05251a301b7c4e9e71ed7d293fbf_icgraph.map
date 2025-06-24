@@ -1,0 +1,7 @@
+<map id="calc_ergo" name="calc_ergo">
+<area shape="rect" id="Node000001" title=" " alt="" coords="441,13,518,40"/>
+<area shape="rect" id="Node000002" href="$_cocal_2code_2_subroutine_2calc__physical__quantities__qeos_8f90.html#ac39ce5f9c2461bc678a5058add949d39" title=" " alt="" coords="195,13,393,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="425,29,394,29,394,24,425,24"/>
+<area shape="rect" id="Node000003" href="$_cocal_2code_2_main__code_2_main___r_q_s___c_f__qeos_8f90.html#a616bbd6ffc75f446ead38bcbb7d91e1f" title=" " alt="" coords="5,5,147,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="179,29,147,29,147,24,179,24"/>
+</map>

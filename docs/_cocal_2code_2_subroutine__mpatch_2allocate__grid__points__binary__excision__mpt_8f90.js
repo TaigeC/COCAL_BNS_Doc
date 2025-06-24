@@ -1,0 +1,4 @@
+var _cocal_2code_2_subroutine__mpatch_2allocate__grid__points__binary__excision__mpt_8f90 =
+[
+    [ "allocate_grid_points_binary_excision_mpt", "_cocal_2code_2_subroutine__mpatch_2allocate__grid__points__binary__excision__mpt_8f90.html#af6be2008e5dfe397541a4efe0d515f18", null ]
+];

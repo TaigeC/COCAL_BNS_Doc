@@ -1,0 +1,4 @@
+var namespaceinterface__adjust__copy__trppunc__from__mpt =
+[
+    [ "adjust_copy_trppunc_from_mpt", "interfaceinterface__adjust__copy__trppunc__from__mpt_1_1adjust__copy__trppunc__from__mpt.html", "interfaceinterface__adjust__copy__trppunc__from__mpt_1_1adjust__copy__trppunc__from__mpt" ]
+];
